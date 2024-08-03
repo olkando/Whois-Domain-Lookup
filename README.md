@@ -9,14 +9,8 @@
 <h3>Demo</h3>
 <p>
     Projenin canlı demosunu aşağıdaki bağlantıdan görüntüleyebilirsiniz:
-    <a href="https://whois.olkando.com/" target="_blank">Whois Domain Lookup Demo</a>
+    <a href="https://whois.olkando.com/" target="_blank">Whois Domain Lookup</a>
 </p>
-
-<h2>Başlarken</h2>
-<p>
-    Bu rehber, projeyi yerel bir ortamda kurmanıza ve çalıştırmanıza yardımcı olacaktır.
-</p>
-
 <h2>Kullanım</h2>
 <ol>
     <li>
@@ -58,7 +52,7 @@
 
 <h2>İletişim</h2>
 <p>
-    Herhangi bir sorunuz veya öneriniz varsa, lütfen <a href="mailto:email@example.com">e-posta adresiniz</a> üzerinden benimle iletişime geçmekten çekinmeyin.
+    Herhangi bir sorunuz veya öneriniz varsa, lütfen <a href="mailto:olkando@gmail.com">olkando@gmail.com</a> üzerinden benimle iletişime geçmekten çekinmeyin.
 </p>
 
 <hr>
