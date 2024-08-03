@@ -31,6 +31,12 @@
             Sonuçlar görüntülendikten sonra "Yeni Sorgu" butonuna tıklayarak yeni bir sorgulama yapabilirsiniz.
         </p>
     </li>
+    <li>
+        <strong>API kullanımı</strong>
+        <p>
+            Sorguları yapabilmek için API hizmeti veren "whoisxmlapi" kullanılmıştır. Siz de buradan API hizmeti alarak whois.php dosyasının 3. satırına kendi API anahtarınızı yazmanız gerekiyor.
+        </p>
+    </li>
 </ol>
 
 <h2>Özellikler</h2>
