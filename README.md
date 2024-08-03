@@ -17,49 +17,6 @@
     Bu rehber, projeyi yerel bir ortamda kurmanıza ve çalıştırmanıza yardımcı olacaktır.
 </p>
 
-<h3>Gereksinimler</h3>
-<ul>
-    <li>PHP 7.4 veya daha üstü</li>
-    <li>Web sunucusu (Apache, Nginx vb.)</li>
-    <li>Git</li>
-    <li>API anahtarı (whoisxmlapi.com üzerinden alınabilir)</li>
-</ul>
-
-<h3>Kurulum</h3>
-<ol>
-    <li>
-        <strong>Proje Deposunu Klonlayın</strong>
-        <pre><code>git clone https://github.com/olkan/WhoisDomainLookup.git</code></pre>
-    </li>
-    <li>
-        <strong>Proje Dizininize Geçin</strong>
-        <pre><code>cd WhoisDomainLookup</code></pre>
-    </li>
-    <li>
-        <strong>Gerekli Bağımlılıkları Kurun</strong>
-        <p>
-            Bağımlılıkların yüklü olduğundan emin olun. Örneğin, PHP için gerekli uzantıları kurun.
-        </p>
-    </li>
-    <li>
-        <strong>API Anahtarını Ayarlayın</strong>
-        <p>
-            <code>whois.php</code> dosyasında yer alan API anahtarınızı güncelleyin:
-        </p>
-        <pre><code>$apiKey = 'Sizin-API-Anahtarınız';</code></pre>
-    </li>
-    <li>
-        <strong>Sunucuyu Başlatın</strong>
-        <p>
-            PHP yerleşik sunucusunu kullanarak projeyi başlatabilirsiniz:
-        </p>
-        <pre><code>php -S localhost:8000</code></pre>
-        <p>
-            Tarayıcınızda <a href="http://localhost:8000" target="_blank">http://localhost:8000</a> adresine giderek uygulamayı görüntüleyebilirsiniz.
-        </p>
-    </li>
-</ol>
-
 <h2>Kullanım</h2>
 <ol>
     <li>
