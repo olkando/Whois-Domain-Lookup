@@ -40,10 +40,6 @@
     <li><strong>Hızlı ve Doğru Sorgulama:</strong> Kullanıcılar, alan adı bilgilerine hızlı bir şekilde erişebilir.</li>
 </ul>
 
-<h2>Katkıda Bulunma</h2>
-<p>
-    Katkıda bulunmak isterseniz, lütfen bir çekme isteği (pull request) gönderin. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak üzere bir konu açın.
-</p>
 
 <h2>Lisans</h2>
 <p>
